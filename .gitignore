@@ -65,3 +65,6 @@ htmlcov/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# Demo video script (ignored)
+DEMO_VIDEO_SCRIPT.md
