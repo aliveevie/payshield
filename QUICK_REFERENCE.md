@@ -3,7 +3,7 @@
 ## 🎯 Agent Information
 ```
 Name:     intake_agent
-Address:  agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu
+Address:  agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 Port:     8001
 Endpoint: http://localhost:8001/submit
 Status:   ✅ Running
@@ -52,7 +52,7 @@ pkill -f intake_agent
 
 **Agent Inspector (Real-time monitoring):**
 ```
-https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu
+https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 ```
 
 ## 💡 Quick Test
@@ -65,7 +65,7 @@ class Invoice(Model):
     amount: float
 
 agent = Agent(name="test", port=9999, seed="test")
-INTAKE = "agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu"
+INTAKE = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @agent.on_event("startup")
 async def send(ctx: Context):
@@ -123,7 +123,7 @@ for i in range(5):
 
 ## 🌐 URLs
 
-- **Agent Inspector**: https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu
+- **Agent Inspector**: https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 - **Agentverse**: https://agentverse.ai
 - **Docs**: https://docs.fetch.ai/uAgents
 

@@ -15,7 +15,7 @@ python agents/intake_agent/intake_agent.py
 ```
 
 The agent will start on **port 8001** and display:
-- **Agent Address**: `agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu`
+- **Agent Address**: `agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h`
 - **HTTP Endpoint**: `http://0.0.0.0:8001`
 - **Agent Inspector URL**: For real-time monitoring
 
@@ -23,7 +23,7 @@ The agent will start on **port 8001** and display:
 
 Once running, you can monitor your agent at:
 ```
-https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu
+https://agentverse.ai/inspect/?uri=http%3A//127.0.0.1%3A8001&address=agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 ```
 
 ## 💡 How to Use the Agent
@@ -61,7 +61,7 @@ class Invoice(Model):
 my_agent = Agent(name="my_client", port=8003, seed="my_seed")
 
 # Intake agent address
-INTAKE_AGENT = "agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu"
+INTAKE_AGENT = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @my_agent.on_event("startup")
 async def send_invoice(ctx: Context):
@@ -110,7 +110,7 @@ curl -X POST http://localhost:8001/submit \
 ## 🔑 Key Information
 
 - **Agent Name**: `intake_agent`
-- **Agent Address**: `agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu`
+- **Agent Address**: `agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h`
 - **Port**: `8001`
 - **Endpoint**: `http://localhost:8001/submit`
 - **Seed Phrase**: `intake_agent_seed_phrase`

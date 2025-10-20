@@ -21,7 +21,7 @@ client = Agent(
 )
 
 # The intake agent's address (from the logs)
-INTAKE_AGENT_ADDRESS = "agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu"
+INTAKE_AGENT_ADDRESS = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @client.on_event("startup")
 async def send_test_invoice(ctx: Context):

@@ -17,7 +17,7 @@ It automates invoice processing, compliance reasoning, and payment execution —
 - **Chat Protocol**: Enabled for ASI:One integration
 
 ### Local Development Agent
-- **Address**: `agent1qdz9khs68u5vx2a0ae8uzdzuf9cjvzks32e3vke5a203wga7uy34xjcdwpu`
+- **Address**: `agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h`
 - **Use**: Local testing and development
 
 ## Project Structure
