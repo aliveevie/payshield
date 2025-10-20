@@ -55,7 +55,7 @@
   - Event-driven architecture
   
 - ✅ **Agentverse Platform**: 
-  - Agent registered: `agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex`
+  - Agent registered: `agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h`
   - Running 24/7 on cloud infrastructure
   - Almanac contract registration completed
   
@@ -73,7 +73,7 @@
 - `agents/intake_agent/intake_agent.py` - uAgents implementation
 - `metta/schema.metta` - MeTTa knowledge graph
 - `AGENTVERSE_DEPLOYMENT.md` - Deployment proof
-- Agent live at: https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
+- Agent live at: https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 
 ---
 
@@ -171,7 +171,7 @@ Manual invoice processing is time-consuming, error-prone, and requires constant 
 |-------------|--------|----------|
 | Meaningful use of Fetch.ai | ✅ Met | uAgents framework, Agentverse hosting |
 | Meaningful use of SingularityNET | ✅ Met | MeTTa knowledge graph for reasoning |
-| Agent registered on Agentverse | ✅ Met | Live at agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex |
+| Agent registered on Agentverse | ✅ Met | Live at agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h |
 | Chat Protocol enabled | ✅ Met | Ready for ASI:One discovery |
 | Discoverable through ASI:One | ✅ Met | Registered on Almanac |
 
@@ -252,10 +252,10 @@ Manual invoice processing is time-consuming, error-prone, and requires constant 
 ### Agent Details
 ```
 Name:            PayShield Intake Agent
-Address:         agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
+Address:         agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 Network:         Testnet
 Status:          Running
-Profile:         https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
+Profile:         https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 Chat Protocol:   Enabled
 Almanac:         Registered
 ```

@@ -116,8 +116,8 @@ payshield/
 
 ```
 Name:     PayShield Intake Agent
-Address:  agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
-Profile:  https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
+Address:  agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
+Profile:  https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 Status:   🟢 Running (24/7 on Agentverse)
 Network:  Testnet
 Protocol: ASI:One Chat Enabled
@@ -203,7 +203,7 @@ source venv/bin/activate
 python examples/test_agentverse_agent.py
 
 # View agent logs (in another terminal or on Agentverse)
-# Visit: https://agentverse.ai/agents/YOUR_AGENT_ADDRESS/logs
+# Visit: https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7hYOUR_AGENT_ADDRESS/logs
 ```
 
 ---
@@ -276,7 +276,7 @@ Now go show the world what you've created!
 
 **Built with ❤️ for ASI Alliance Innovation Lab Hackathon**
 
-**Agent Live At**: https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex
+**Agent Live At**: https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h
 
 ---
 

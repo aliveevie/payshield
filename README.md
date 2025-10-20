@@ -10,9 +10,9 @@ It automates invoice processing, compliance reasoning, and payment execution —
 
 ### PayShield Intake Agent
 - **Name**: PayShield Intake Agent
-- **Address**: `agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex`
+- **Address**: `agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h`
 - **Status**: ✅ Live on Agentverse (Testnet)
-- **Agentverse Profile**: [View Agent](https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex)
+- **Agentverse Profile**: [View Agent](https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h/profile)
 - **Function**: Receives, validates, and processes invoice data from various sources
 - **Chat Protocol**: Enabled for ASI:One integration
 

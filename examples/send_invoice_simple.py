@@ -16,7 +16,7 @@ class Invoice(Model):
 sender = Agent(name="invoice_sender_cloud", seed="sender_seed_cloud_2025")
 
 # PayShield cloud agent on Agentverse
-CLOUD_AGENT = "agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex"
+CLOUD_AGENT = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @sender.on_event("startup")
 async def send_invoices(ctx: Context):
@@ -38,7 +38,7 @@ async def send_invoices(ctx: Context):
     ctx.logger.info("✅ All invoices sent successfully!")
     ctx.logger.info("")
     ctx.logger.info("🔍 Check cloud processing logs:")
-    ctx.logger.info("   https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex")
+    ctx.logger.info("   https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h")
     ctx.logger.info("")
     
     # Wait then exit

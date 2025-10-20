@@ -11,7 +11,7 @@ import sys
 from uagents import Agent, Context
 from agents.intake_agent.models import Invoice, Action
 
-CLOUD_AGENT = "agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex"
+CLOUD_AGENT = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 cli = Agent(name="payshield_cli", seed="payshield_cli_seed_2025")
 

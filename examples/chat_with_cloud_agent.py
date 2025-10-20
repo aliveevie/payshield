@@ -24,7 +24,7 @@ chat_client = Agent(
 )
 
 # Your cloud agent on Agentverse
-PAYSHIELD_CLOUD_AGENT = "agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex"
+PAYSHIELD_CLOUD_AGENT = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @chat_client.on_event("startup")
 async def start_chat(ctx: Context):
@@ -62,7 +62,7 @@ async def start_chat(ctx: Context):
     ctx.logger.info("✅ All messages sent to cloud agent!")
     ctx.logger.info("")
     ctx.logger.info("🔍 Check the cloud agent logs to see them being processed:")
-    ctx.logger.info("   https://agentverse.ai/agents/agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex")
+    ctx.logger.info("   https://agentverse.ai/agents/agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h")
     ctx.logger.info("")
     ctx.logger.info("💡 The cloud agent is processing your invoices right now!")
     ctx.logger.info("   (No local response needed - the cloud handles everything!)")

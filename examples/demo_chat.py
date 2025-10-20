@@ -19,7 +19,7 @@ alice = Agent(name="alice", seed="alice_seed", port=8002, endpoint=["http://loca
 bob = Agent(name="bob", seed="bob_seed", port=8003, endpoint=["http://localhost:8003/submit"])
 
 # Option 2: Cloud agent address (PayShield on Agentverse)
-PAYSHIELD_CLOUD = "agent1qgl23rpuj06tz95rgzmcmjncl8mjkfv570vq34gsh5ts49rxpdpjgdsclex"
+PAYSHIELD_CLOUD = "agent1q0c8tjx6932mn999jj4htx7wt2x0r7p7jem4hezuf2z8nsx7dwx5z780k7h"
 
 @alice.on_event("startup")
 async def start(ctx: Context):
