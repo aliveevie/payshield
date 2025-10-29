@@ -124,7 +124,7 @@ This project is submitted to the ASI Alliance Innovation Lab Hackathon.
 
 ## 🎬 Demo Video
 
-[Demo video link will be added here]
+https://youtu.be/SV5NIyACHGM
 
 ## 📞 Contact & Support
 
